@@ -26,4 +26,31 @@ El procesamiento de lenguaje natural es una rama de la inteligencia artificial y
 * **Sesión 15:** Generación de Lenguaje natural.
 * **Sesión 16:** Proyecto Final.
 
+## EVALUACIÓN DEL CURSO
+
+| **Tipo de actividad** | **Porcentaje** | **Sesión de entrega** |
+|---|---|---|
+| Quiz - Conceptos Iniciales | 5% | 3 |
+| Tarea 1 - preprocesamiento de textos | 15% | 4 |
+| Taller de clasificación de textos | 5% | 8 |
+| Taller de clasificación de textos | 10% | 9 |
+| Tarea 2 Modelos de lenguajes | 15% | 12 |
+| Tarea 3 - Temas avanzados | 10% | 16 |
+| Actividades Aula Virtual | 15% | - |
+| Proyecto Final | 25% | 16 | 
+
+## Contenidos previos
+
+   ## Cuadernos útiles - Previo -
+   
+   [Instalando Kernels](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Instalando%20Kernels.ipynb)
+   
+   [Manipulación de datos en R](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Manipulaci%C3%B3n.html)
+   
+   [Manipulación de datos en Python](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Manipulacion.ipynb)
+   
+   [Introducción a Pandas](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Intro_Pandas.ipynb)
+   
+   [Descriptivas simples en R](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/R_E_Descriptivas.ipynb)
+
 
