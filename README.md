@@ -41,8 +41,7 @@ El procesamiento de lenguaje natural es una rama de la inteligencia artificial y
 
 ## Contenidos previos
 
-   ## Cuadernos útiles - Previo -
-   
+    
    [Instalando Kernels](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Instalando%20Kernels.ipynb)
    
    [Manipulación de datos en R](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Manipulaci%C3%B3n.html)
