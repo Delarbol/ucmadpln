@@ -42,7 +42,7 @@ El procesamiento de lenguaje natural es una rama de la inteligencia artificial y
 ## Contenidos previos
 
     
-   [Instalando Kernels](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Instalando%20Kernels.ipynb)
+   [Instalando Kernels](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Instalando_Kernels.ipynb)
    
    [Manipulación de datos en R](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Manipulaci%C3%B3n.html)
    
@@ -53,3 +53,10 @@ El procesamiento de lenguaje natural es una rama de la inteligencia artificial y
    [Descriptivas simples en R](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/R_E_Descriptivas.ipynb)
 
 
+## Bibliografía
+
+1. Documentación NLTK [https://www.nltk.org/](https://www.nltk.org/)
+2. *Hardeniya, Perkins, Chopra, Joshi and Mathur*. ***Natural Language Processing: Python and NLTK***. Packt Publishing Ltd. 2016
+3. *Deng and Liu*. ***Deep Learning in Natural Language Processing***. Springer Nature Singapore Pte Ltd. 2018
+4. *Jacob Eisenstein*. ***Natural Language Processing***. MIT Press, 2019.
+5. *Sahalan, Hassanien and Tolba*. ***Intelligent Natural Language Processing: Trends and Applications***. Springer International Publishing AG. 2018.
