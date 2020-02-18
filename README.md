@@ -10,7 +10,7 @@ El procesamiento de lenguaje natural es una rama de la inteligencia artificial y
 
 
 * **Sesión 1:** Presentación del curso. Introducción al procesamiento de lenguaje natural. Preparación de textos.
-* **Sesión 2:** Conteo, palabras de parada, Introducción a nltk, tokenización, uso de WordNet.
+* [**Sesión 2:** Conteo, palabras de parada, Introducción a nltk, tokenización, uso de WordNet.](/Cuadernos/Clase%202%20-%20Introducción%20y%20preprocesamiento.ipynb)
 * **Sesión 3:** Derivación regresiva y palabras lematizadas. 
 * **Sesión 4:** Entrega de Tarea 1.
 * **Sesión 5:** El significado de una palabra, introducción a vectores de palabras y sentidos de palabras.
